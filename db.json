@@ -1,4 +1,17 @@
 {
-    "users": [],
-    "products": []
+	"users": [
+		{
+			"id": "5b336792-3df0-4415-a4cb-1c0a10a536ed",
+			"name": "Sebastião Rodrigo",
+			"email": "rodrigo@gmail.com",
+			"password": "$2b$08$NNgORTlBZg8pw3P1fdVzYenl.RpXeg7eOYf0/OjmrBv1wj1jZrlIu"
+		},
+		{
+			"id": "a8844cc1-5502-44e2-9459-beeccc31bf84",
+			"name": "Maria Sousa",
+			"email": "maria@gmail.com",
+			"password": "$2b$08$a1T7w/5hVrcUVC5AN5gMAey5DKO3sRGGzxyTlHr92mwAoaqFaTQfi"
+		}
+	],
+	"products": []
 }
